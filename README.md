@@ -90,7 +90,7 @@ Lab7Web_PHP/
 
 | # | Nama | NIM | Prodi | Semester | Email | Hasil |
 |---|---|---|---|---|---|---|
-| 1 | Andi Pratama | 2023123456 | Teknik Informatika | 5 | andi@example.com | Ringkasan data tampil |
+| 1 | Fikry | 2023123456 | Teknik Informatika | 5 | fikry@gmail.com | Ringkasan data tampil |
 | 2 | Siti Aminah | 2022987654 | Teknik Informatika | 14 | siti.aminah@mail.co.id | Ringkasan data tampil (batas atas semester) |
 
 **Input tidak valid**
